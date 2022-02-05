@@ -1,0 +1,16 @@
+<Trader> RFFS Helicopters                            
+    <Category> Helicopters
+        RFFSHeli_Bo105m,            VNK,    0,        -1
+        RFFSHeli_LittleBird,        VNK,    0,        -1
+        RFFSHeli_LittleBird_Camo,    VNK,    0,        -1
+        RFFSHeli_LittleBird_Desert,    VNK,    0,        -1
+        RFFSHeli_Ka26,                VNK,    0,        -1
+        RFFSHeli_Bell429,                VNK,    0,        -1
+
+    <Category> Helicopter Parts
+        RFFSHeli_hydraulic_fluid,    *,    0,        -1
+        RFFSHeli_hydraulic_hoses,    *,    0,        -1
+        RFFSHeli_wiring_harness,    *,    0,        -1
+        RFFSHeli_igniter_plug,        *,    0,        -1
+        RFFSHeli_aviation_battery,    *,    0,        -1
+        RFFSHeli_aviation_toolbox,    *,    0,        -1

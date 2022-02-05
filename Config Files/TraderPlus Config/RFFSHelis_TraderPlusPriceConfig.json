@@ -1,0 +1,22 @@
+       {
+            "CategoryName": "Helicopters",
+            "Products": [
+                "RFFSHeli_LittleBird,1,-1,1,900000,450000,0.5",
+                "RFFSHeli_LittleBird_Camo,1,-1,1,900000,450000,0.5",
+                "RFFSHeli_LittleBird_Desert,1,-1,1,900000,450000,0.5",
+                "RFFSHeli_Bo105m,1,-1,1,1200000,600000,0.5",
+                "RFFSHeli_KA26,1,-1,1,1500000,750000,0.5"
+				"RFFSHeli_Bell429,1,-1,1,1750000,875000,0.5"
+            ]
+        },
+        {
+            "CategoryName": "Helicopter Parts",
+            "Products": [
+                "RFFSHeli_hydraulic_hoses,1,-1,1,1200,600,0.5",
+                "RFFSHeli_wiring_harness,1,-1,1,1200,600,0.5",
+                "RFFSHeli_igniter_plug,1,-1,1,1200,600,0.5",
+                "RFFSHeli_aviation_battery,1,-1,1,1200,600,0.5",
+                "RFFSHeli_hydraulic_fluid,1,-1,1,1200,600,0.5",
+                "RFFSHeli_aviation_toolbox,1,-1,1,3000,1500,0.5"
+            ]
+        },
