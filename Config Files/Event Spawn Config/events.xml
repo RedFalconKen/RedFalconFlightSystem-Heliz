@@ -1,0 +1,22 @@
+    <event name="HeliSpawn">
+        <nominal>3</nominal>
+        <min>2</min>
+        <max>5</max>
+        <lifetime>300</lifetime>
+        <restock>0</restock>
+        <saferadius>500</saferadius>
+        <distanceradius>500</distanceradius>
+        <cleanupradius>200</cleanupradius>
+        <flags deletable="0" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>mixed</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird_Camo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_LittleBird_Desert"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_KA26"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429"/>
+        </children>
+    </event>
