@@ -7,7 +7,12 @@ class CfgPatches
 		requiredVersion=0.1;
 		requiredAddons[]=
 		{
-			"RFFSHeli_Bell429_Heli"
+			"DZ_Vehicles_Parts",
+			"DZ_Vehicles_Wheeled",
+			"DZ_Scripts",
+			"DZ_Data",
+			"RFFSHeli_Bell429_Heli",
+			"RFFSHeli_Core"
 		};
 	};
 };
