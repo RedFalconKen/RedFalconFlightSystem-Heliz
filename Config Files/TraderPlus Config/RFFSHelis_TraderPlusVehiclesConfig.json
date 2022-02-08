@@ -78,6 +78,9 @@
                 "RFFSHeli_Bell429_Cargo2",
                 "RFFSHeli_Bell429_Cargo3",
                 "RFFSHeli_Bell429_Cargo4",
+				"RFFSHeli_Bell429_interior",
+				"RFFSHeli_Bell429_skids",
+				"RFFSHeli_Bell429_rearseats",
                 "HeadlightH7"
             ]
         }
