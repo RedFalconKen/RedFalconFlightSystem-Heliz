@@ -131,3 +131,43 @@ cfgspawnabletypes
             <item name="HeadlightH7" chance="0.40" />
         </attachments>
     </type>
+    <type name="RFFSHeli_Bell429_Medic">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_flight_case" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+    </type>
+    <type name="RFFSHeli_Bell429_Police">
+        <attachments chance="1.00">
+            <item name="RFFSHeli_flight_case" chance="0.60" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_hydraulic_hoses" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_wiring_harness" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_igniter_plug" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="RFFSHeli_aviation_battery" chance="0.40" />
+        </attachments>
+        <attachments chance="1.00">
+            <item name="HeadlightH7" chance="0.40" />
+        </attachments>
+    </type>

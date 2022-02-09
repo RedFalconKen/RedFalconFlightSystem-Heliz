@@ -18,5 +18,7 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bo105m"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_KA26"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Police"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Medic"/>
         </children>
     </event>

@@ -6,6 +6,8 @@
         RFFSHeli_LittleBird_Desert,    VNK,    0,        -1
         RFFSHeli_Ka26,                VNK,    0,        -1
         RFFSHeli_Bell429,                VNK,    0,        -1
+        RFFSHeli_Bell429_Police,                VNK,    0,        -1
+        RFFSHeli_Bell429_Medic,                VNK,    0,        -1
 
     <Category> Helicopter Parts
         RFFSHeli_hydraulic_fluid,    *,    0,        -1
@@ -14,3 +16,4 @@
         RFFSHeli_igniter_plug,        *,    0,        -1
         RFFSHeli_aviation_battery,    *,    0,        -1
         RFFSHeli_aviation_toolbox,    *,    0,        -1
+		RFFSHeli_flight_case,		*,		0,			-1

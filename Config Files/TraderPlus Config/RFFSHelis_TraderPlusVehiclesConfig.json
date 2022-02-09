@@ -10,8 +10,11 @@
                 "RFFSHeli_aviation_battery",
                 "RFFSHeli_Bo105m_DriverDoor",
                 "RFFSHeli_Bo105m_CoDriverDoor",
+                "RFFSHeli_Bo105m_Cargo1",
+                "RFFSHeli_Bo105m_Cargo2",
                 "RFFSHeli_Bo105m_Cargo3",
                 "RFFSHeli_Bo105m_Cargo4",
+                "RFFSHeli_Bo105m_Fuselage",
                 "HeadlightH7",
                 "HeadlightH7"
             ]
@@ -81,6 +84,46 @@
 				"RFFSHeli_Bell429_interior",
 				"RFFSHeli_Bell429_skids",
 				"RFFSHeli_Bell429_rearseats",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Bell429_Police",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bell429_DriverDoor_Police",
+                "RFFSHeli_Bell429_CoDriverDoor_Police",
+                "RFFSHeli_Bell429_Cargo1_Police",
+                "RFFSHeli_Bell429_Cargo2_Police",
+                "RFFSHeli_Bell429_Cargo3_Police",
+                "RFFSHeli_Bell429_Cargo4_Police",
+				"RFFSHeli_Bell429_interior_Police",
+				"RFFSHeli_Bell429_skids_Police",
+				"RFFSHeli_Bell429_rearseats_Police",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Bell429_Medic",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bell429_DriverDoor_Medic",
+                "RFFSHeli_Bell429_CoDriverDoor_Medic",
+                "RFFSHeli_Bell429_Cargo1_Medic",
+                "RFFSHeli_Bell429_Cargo2_Medic",
+                "RFFSHeli_Bell429_Cargo3_Medic",
+                "RFFSHeli_Bell429_Cargo4_Medic",
+				"RFFSHeli_Bell429_interior_Medic",
+				"RFFSHeli_Bell429_skids_Medic",
+				"RFFSHeli_Bell429_rearseats_Medic",
                 "HeadlightH7"
             ]
         }

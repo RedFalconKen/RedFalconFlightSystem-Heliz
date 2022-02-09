@@ -39,4 +39,18 @@
         RFFSHeli_igniter_plug
         RFFSHeli_hydraulic_hoses
         RFFSHeli_wiring_harness
+        HeadlightH7 
+
+<VehicleParts>RFFSHeli_Bell429_Police
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7 
+
+<VehicleParts>RFFSHeli_Bell429_Medic
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
         HeadlightH7
