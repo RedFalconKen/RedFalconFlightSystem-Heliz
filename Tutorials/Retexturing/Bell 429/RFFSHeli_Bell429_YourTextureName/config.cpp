@@ -230,7 +230,7 @@ class CfgVehicles
 	};
 
 	class RFFSHeli_Bell429_Wreck;
-	class RFFSHeli_Bell429_Wreck_YourTextureName: RFFSHeli_Bell429_Wreck
+	class RFFSHeli_Bell429_YourTextureName_Wreck: RFFSHeli_Bell429_Wreck
 	{
 		hiddenSelections[]=
 		{

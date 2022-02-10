@@ -1,5 +1,10 @@
 class RFFSHeli_Bell429_YourTextureName extends RFFSHeli_Bell429
 {
+	void RFFSHeli_Bell429_YourTetureName() 
+	{
+		c_heli_wreck_model = "RFFSHeli_Bell429_YourTextureName_Wreck";
+	}
+	
 	override void AttachHeliParts() 			
 	{
 		if (!m_heli_parts_added)
@@ -23,7 +28,7 @@ class RFFSHeli_Bell429_YourTextureName extends RFFSHeli_Bell429
 	}
 }
 
-class RFFSHeli_Bell429_YourTextureName_wreck_Camo2 extends RFFSHeli_Bell429_wreck {}
+class RFFSHeli_Bell429_YourTextureName_wreck extends RFFSHeli_Bell429_wreck {}
 
 
 
