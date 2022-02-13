@@ -126,6 +126,48 @@
 				"RFFSHeli_Bell429_rearseats_Medic",
                 "HeadlightH7"
             ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Mi2",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Mi2_DriverDoor",
+                "RFFSHeli_Mi2_CoDriverDoor",
+                "RFFSHeli_Mi2_Cargo1",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Mi2_Military",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Mi2_DriverDoor_Military",
+                "RFFSHeli_Mi2_CoDriverDoor_Military",
+                "RFFSHeli_Mi2_Cargo1_Military",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Mi2_Hornet",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Mi2_DriverDoor_Hornet",
+                "RFFSHeli_Mi2_CoDriverDoor_Hornet",
+                "RFFSHeli_Mi2_Cargo1_Hornet",
+                "HeadlightH7"
+            ]
         }
     ]
 }

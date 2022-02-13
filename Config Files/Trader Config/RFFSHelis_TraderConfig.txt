@@ -8,6 +8,9 @@
         RFFSHeli_Bell429,                VNK,    0,        -1
         RFFSHeli_Bell429_Police,                VNK,    0,        -1
         RFFSHeli_Bell429_Medic,                VNK,    0,        -1
+        RFFSHeli_Mi2,                VNK,    0,        -1
+        RFFSHeli_Mi2_Military,                VNK,    0,        -1
+        RFFSHeli_Mi2_Hornet,                VNK,    0,        -1
 
     <Category> Helicopter Parts
         RFFSHeli_hydraulic_fluid,    *,    0,        -1

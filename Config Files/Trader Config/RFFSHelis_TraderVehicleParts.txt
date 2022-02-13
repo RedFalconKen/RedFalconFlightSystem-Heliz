@@ -54,3 +54,24 @@
         RFFSHeli_hydraulic_hoses
         RFFSHeli_wiring_harness
         HeadlightH7
+
+<VehicleParts>RFFSHeli_Mi2
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7 
+		
+<VehicleParts>RFFSHeli_Mi2_Military
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7 
+
+<VehicleParts>RFFSHeli_Mi2_Hornet
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7 		
