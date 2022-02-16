@@ -133,15 +133,18 @@ class CfgVehicles
 	{
 		hiddenSelections[]=
 		{
-			"camo"
+			"camo",
+			"camo_glass"
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa"
+			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa",
+			"RFFSHeli_Bell429_YourTextureName\data\glass_ca_YourTextureName.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
 			"RFFSHeli_Bell429\data\body.rvmat",
+			"RFFSHeli_Bell429\data\glass_ca.rvmat"
 		};
 	};
 	class RFFSHeli_Bell429_CodriverDoor_YourTextureName: RFFSHeli_Bell429_CodriverDoor
@@ -149,32 +152,38 @@ class CfgVehicles
 		hiddenSelections[]=
 		{
 			"camo",
-			"camo_right"
+			"camo_right",
+			"camo_glass"
 		};
 		hiddenSelectionsTextures[]=
 		{
 			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa",
-			"RFFSHeli_Bell429_YourTextureName\data\body_right_co_YourTextureName.paa"
+			"RFFSHeli_Bell429_YourTextureName\data\body_right_co_YourTextureName.paa",
+			"RFFSHeli_Bell429_YourTextureName\data\glass_ca_YourTextureName.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
 			"RFFSHeli_Bell429\data\body.rvmat",
-			"RFFSHeli_Bell429\data\body.rvmat"
+			"RFFSHeli_Bell429\data\body.rvmat",
+			"RFFSHeli_Bell429\data\glass_ca.rvmat"
 		};
 	};
 	class RFFSHeli_Bell429_Cargo1_YourTextureName: RFFSHeli_Bell429_Cargo1
 	{
 		hiddenSelections[]=
 		{
-			"camo"
+			"camo",
+			"camo_glass"
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa"
+			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa",
+			"RFFSHeli_Bell429_YourTextureName\data\glass_ca_YourTextureName.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
-			"RFFSHeli_Bell429\data\body.rvmat"
+			"RFFSHeli_Bell429\data\body.rvmat",
+			"RFFSHeli_Bell429\data\glass_ca.rvmat"
 		};
 	};
 	class RFFSHeli_Bell429_Cargo2_YourTextureName: RFFSHeli_Bell429_Cargo2
@@ -182,32 +191,38 @@ class CfgVehicles
 		hiddenSelections[]=
 		{
 			"camo",
-			"camo_right"
+			"camo_right",
+			"camo_glass"
 		};
 		hiddenSelectionsTextures[]=
 		{
 			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa",
-			"RFFSHeli_Bell429_YourTextureName\data\body_right_co_YourTextureName.paa"
+			"RFFSHeli_Bell429_YourTextureName\data\body_right_co_YourTextureName.paa",
+			"RFFSHeli_Bell429_YourTextureName\data\glass_ca_YourTextureName.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
 			"RFFSHeli_Bell429\data\body.rvmat",
-			"RFFSHeli_Bell429\data\body.rvmat"
+			"RFFSHeli_Bell429\data\body.rvmat",
+			"RFFSHeli_Bell429\data\glass_ca.rvmat"
 		};
 	};
 	class RFFSHeli_Bell429_Cargo3_YourTextureName: RFFSHeli_Bell429_Cargo3
 	{
 		hiddenSelections[]=
 		{
-			"camo"
+			"camo",
+			"camo_glass"
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa"
+			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa",
+			"RFFSHeli_Bell429_YourTextureName\data\glass_ca_YourTextureName.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
-			"RFFSHeli_Bell429\data\body.rvmat"
+			"RFFSHeli_Bell429\data\body.rvmat",
+			"RFFSHeli_Bell429\data\glass_ca.rvmat"
 		};
 	};
 	class RFFSHeli_Bell429_Cargo4_YourTextureName: RFFSHeli_Bell429_Cargo4
@@ -215,17 +230,20 @@ class CfgVehicles
 		hiddenSelections[]=
 		{
 			"camo",
-			"camo_right"
+			"camo_right",
+			"camo_glass"
 		};
 		hiddenSelectionsTextures[]=
 		{
 			"RFFSHeli_Bell429_YourTextureName\data\body_co_YourTextureName.paa",
-			"RFFSHeli_Bell429_YourTextureName\data\body_right_co_YourTextureName.paa"
+			"RFFSHeli_Bell429_YourTextureName\data\body_right_co_YourTextureName.paa",
+			"RFFSHeli_Bell429_YourTextureName\data\glass_ca_YourTextureName.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
 			"RFFSHeli_Bell429\data\body.rvmat",
-			"RFFSHeli_Bell429\data\body.rvmat"
+			"RFFSHeli_Bell429\data\body.rvmat",
+			"RFFSHeli_Bell429\data\glass_ca.rvmat"
 		};
 	};
 
