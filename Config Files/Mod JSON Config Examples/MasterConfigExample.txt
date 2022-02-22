@@ -1,0 +1,80 @@
+************ This is just for explanation DO NOT USE ************
+
+{
+    "Master_ConfigVersion": 4,								** Version of the config scheme -- DO NOT CHANGE --
+    "HUD_ForceMetric": 0,									** Force all HUDs to display in Metric (1/0)
+    "HUD_ForceImperial": 0,									** Force all HUDs to display in Imperial measurements (1/0)
+    "HUD_Allow1PP": 1,										** Allow HUD to display in 1PP (1/0)
+    "HUD_Allow3PP": 1,										** Allow HUD to display in 3PP (1/0)
+    "Damage_AllowWeaponDamage": 1,							** Allow helis to be damaged by weapons (1/0)
+    "Damage_AllowCollisionDamage": 1,						** Allow helis to be damaged by contact with other objects (1/0)
+    "Damage_Collision2DamageCoeff": 100.0,					** Coefficient of how much to damage helis from contact (Percentage)
+    "Storage_AllowRemovalofFlightCase": 1,					** Allow removal of the Flight Case from helis (1/0)
+	"Storage_DisplayInventoryCategory": 1,					** Allow display the "Storage" category in Heli inventory (1/0)
+    "Crashsite_CreateOnHeliRuined": 1,						** Create a Heli Crash Site when heli is ruined (1/0)
+    "Crashsite_ScatterHeliInventory": 1,					** Scatter all inventory as loot when a Heli Crash Site is created (1/0)
+    "Crashsite_DamageScatteredInventory": 1,				** Apply random damage to heli inventory scattered as loot (1/0)
+    "Crashsite_SpawnZombies": 1,							** Spawn zombies around a created Heli Crash Site (1/0)
+    "Crashsite_ZombieDistance": 12.0,						** Radius in meters from the Heli Crash Site to spawn zombies (Number)
+    "Crashsite_ZombieMax": 8,								** Maximum number of zombies to spawn around a Heli Crash Site (integer)
+    "Crashsite_ZombieMin": 2,								** Minimum number of zombies to spawn around a Heli Crash Site (integer)
+    "Crashsite_LootDistance": 4.0,							** Radius in meters from the Heli Crash Site to spawn inventory as loot (Number)
+    "Crashsite_LootMinDamage": 0,							** Minimum damage (in hit points) to apply to inventory scattered as loot (integer)
+    "Crashsite_LootMaxDamage": 100,							** Maximum damage (in hit points) to apply to inventory scattered as loot (integer)
+    "Crashsite_Zombies": [									** List of Zombie (or other creatures) to randomly select from for Heli Crash Sites (List)
+        {
+            "ClassName": "ZmbM_PatrolNormal_Autumn"
+        },
+        {
+            "ClassName": "ZmbM_PatrolNormal_Flat"
+        },
+        {
+            "ClassName": "ZmbM_PatrolNormal_PautRev"
+        },
+        {
+            "ClassName": "ZmbM_PatrolNormal_Summer"
+        },
+        {
+            "ClassName": "ZmbM_SoldierNormal"
+        },
+        {
+            "ClassName": "ZmbM_usSoldier_Heavy_Woodland"
+        },
+        {
+            "ClassName": "ZmbM_usSoldier_Officer_Desert"
+        },
+        {
+            "ClassName": "ZmbM_usSoldier_normal_Desert"
+        },
+        {
+            "ClassName": "ZmbM_usSoldier_normal_Woodland"
+        },
+        {
+            "ClassName": "ZmbM_CommercialPilotOld_Olive"
+        },
+        {
+            "ClassName": "ZmbM_CommercialPilotOld_Brown"
+        },
+        {
+            "ClassName": "ZmbM_CommercialPilotOld_Blue"
+        },
+        {
+            "ClassName": "ZmbM_JournalistSkinny"
+        },
+        {
+            "ClassName": "ZmbF_JournalistNormal_White"
+        },
+        {
+            "ClassName": "ZmbM_CommercialPilotOld_Grey"
+        },
+        {
+            "ClassName": "ZmbM_FirefighterNormal"
+        },
+        {
+            "ClassName": "ZmbM_NBC_Yellow"
+        },
+        {
+            "ClassName": "ZmbM_PolicemanSpecForce_Heavy"
+        }
+    ]
+}
