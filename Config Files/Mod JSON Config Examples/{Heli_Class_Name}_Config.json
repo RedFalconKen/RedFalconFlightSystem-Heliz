@@ -1,0 +1,14 @@
+{
+    "Heli_ConfigVersion": 2,								** Version of the config scheme -- DO NOT CHANGE --
+    "Heli_FuelCapacity": 495.0,								** Fuel Capacity in liters
+    "Heli_FuelConsumptionRate": 1.2499799728393555,			** Fuel Consumption Rate in liters per minute
+    "Flight_MaximumAirspeed": 268.5400085449219,			** Maximum Airspeed in KPH
+    "Flight_MaximumAltitude": 1250.0,						** Maximum Operating Altitude in Meters
+    "Flight_MaximumClimbRate": 720.0,						** Maximum Climb Rate in meters per minute
+    "Flight_AerodynamicDrag": 100.0,						** Aerodynamic Drag Coefficient as a percentage
+    "Controls_AntiTorqueThrustRate": 100.0,					** Anti-Torque Thrust Coefficient as a percentage
+    "Controls_CyclicThrustRate": 100.0,						** Cyclic Thrust Coefficient as a percentage
+    "Controls_CollectiveThrustRate": 100.0,					** Collective Thrust Coefficient as a percentage
+    "Controls_MaximumRotationalRate": 100.0,				** Maximum Rotational Rate Coefficient as a percentage
+    "Controls_CyclicDampeningRate": 100.0					** Cyclic Dampening Coefficient as a percentage
+}

@@ -20,3 +20,13 @@
         RFFSHeli_aviation_battery,    *,    0,        -1
         RFFSHeli_aviation_toolbox,    *,    0,        -1
 		RFFSHeli_flight_case,		*,		0,			-1
+		RFFSHeli_flight_case_red,		*,		0,			-1
+		RFFSHeli_flight_case_blue,		*,		0,			-1
+		RFFSHeli_batterycharger,		*,		0,			-1
+		
+	<Category> Helicopter Gear
+		RFFSHeli_PilotHelmet,		*,		0,			-1
+		RFFSHeli_PilotGloves,		*,		0,			-1
+		RFFSHeli_PilotShirt,		*,		0,			-1
+		RFFSHeli_PilotPants,		*,		0,			-1
+		RFFSHeli_PilotVest,		*,		0,			-1

@@ -23,6 +23,19 @@
                 "RFFSHeli_aviation_battery,1,-1,1,1200,600,0.5",
                 "RFFSHeli_hydraulic_fluid,1,-1,1,1200,600,0.5",
                 "RFFSHeli_aviation_toolbox,1,-1,1,3000,1500,0.5",
-                "RFFSHeli_flight_case,1,-1,1,3000,1500,0.5"
+                "RFFSHeli_flight_case,1,-1,1,3000,1500,0.5",
+                "RFFSHeli_flight_case_red,1,-1,1,3000,1500,0.5",
+                "RFFSHeli_flight_case_blue,1,-1,1,3000,1500,0.5",
+                "RFFSHeli_batterycharger,1,-1,1,3000,1500,0.5"
             ]
         },
+        {
+            "CategoryName": "Helicopter Gear",
+            "Products": [
+                "RFFSHeli_PilotHelmet,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotGloves,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotShirt,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotPants,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotVest,1,-1,1,1200,600,0.5"
+            ]
+        },				
