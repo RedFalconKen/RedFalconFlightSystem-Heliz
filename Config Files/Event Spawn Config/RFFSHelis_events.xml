@@ -1,4 +1,4 @@
-    <event name="HeliSpawn">
+    <event name="VehicleHeliSpawn">
         <nominal>3</nominal>
         <min>2</min>
         <max>5</max>
