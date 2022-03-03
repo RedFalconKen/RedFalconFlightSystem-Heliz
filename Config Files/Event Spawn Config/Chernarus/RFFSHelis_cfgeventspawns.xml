@@ -1,4 +1,4 @@
-<event name="HeliSpawn">
+<event name="VehicleHeliSpawn">
 	<!-- Airfield Vyvor -->
 	<pos x="4169.207031" z="10990.304688" a="71.035965" />
 	<!-- Prison Island -->
