@@ -11,6 +11,9 @@
         RFFSHeli_Mi2,                VNK,    0,        -1
         RFFSHeli_Mi2_Military,                VNK,    0,        -1
         RFFSHeli_Mi2_Hornet,                VNK,    0,        -1
+        RFFSHeli_Mi2_Apache,                VNK,    0,        -1
+        RFFSHeli_Mi2_Apache_Winter,                VNK,    0,        -1
+        RFFSHeli_Mi2_Apache_Desert,                VNK,    0,        -1
 
     <Category> Helicopter Parts
         RFFSHeli_hydraulic_fluid,    *,    0,        -1

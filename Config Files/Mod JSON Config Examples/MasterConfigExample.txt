@@ -6,6 +6,7 @@
     "HUD_ForceImperial": 0,									** Force all HUDs to display in Imperial measurements (1/0)
     "HUD_Allow1PP": 1,										** Allow HUD to display in 1PP (1/0)
     "HUD_Allow3PP": 1,										** Allow HUD to display in 3PP (1/0)
+    "HUD_RequiresPilotHelmet": 0,							** Requires player to be wearing the Pilot Helmet in order to see the HUD
     "Damage_AllowWeaponDamage": 1,							** Allow helis to be damaged by weapons (1/0)
     "Damage_AllowCollisionDamage": 1,						** Allow helis to be damaged by contact with other objects (1/0)
     "Damage_Collision2DamageCoeff": 100.0,					** Coefficient of how much to damage helis from contact (Percentage)

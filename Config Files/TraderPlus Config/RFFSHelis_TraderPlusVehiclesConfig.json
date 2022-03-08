@@ -168,6 +168,45 @@
                 "RFFSHeli_Mi2_Cargo1_Hornet",
                 "HeadlightH7"
             ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Apache",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Apache_DriverDoor",
+                "RFFSHeli_Apache_CoDriverDoor"
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Apache_Winter",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Apache_Winter_DriverDoor",
+                "RFFSHeli_Apache_Winter_CoDriverDoor"
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Apache_Desert",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Apache_Desert_DriverDoor",
+                "RFFSHeli_Apache_Desert_CoDriverDoor"
+                "HeadlightH7"
+            ]
         }
     ]
 }
