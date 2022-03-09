@@ -178,7 +178,7 @@
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
                 "RFFSHeli_Apache_DriverDoor",
-                "RFFSHeli_Apache_CoDriverDoor"
+                "RFFSHeli_Apache_CoDriverDoor",
                 "HeadlightH7"
             ]
         },
@@ -191,7 +191,7 @@
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
                 "RFFSHeli_Apache_Winter_DriverDoor",
-                "RFFSHeli_Apache_Winter_CoDriverDoor"
+                "RFFSHeli_Apache_Winter_CoDriverDoor",
                 "HeadlightH7"
             ]
         },
@@ -204,7 +204,7 @@
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
                 "RFFSHeli_Apache_Desert_DriverDoor",
-                "RFFSHeli_Apache_Desert_CoDriverDoor"
+                "RFFSHeli_Apache_Desert_CoDriverDoor",
                 "HeadlightH7"
             ]
         }
