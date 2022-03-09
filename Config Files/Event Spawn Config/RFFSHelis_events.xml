@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<events>
     <event name="VehicleHeliSpawn">
         <nominal>3</nominal>
         <min>2</min>
@@ -23,5 +25,9 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Military"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Hornet"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Winter"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Desert"/>
         </children>
     </event>
+</events>
