@@ -14,6 +14,9 @@
         RFFSHeli_Apache,                VNK,    0,        -1
         RFFSHeli_Apache_Winter,                VNK,    0,        -1
         RFFSHeli_Apache_Desert,                VNK,    0,        -1
+        RFFSHeli_R22,                VNK,    0,        -1
+        RFFSHeli_R22_Red,                VNK,    0,        -1
+        RFFSHeli_R22_Black,                VNK,    0,        -1
 
     <Category> Helicopter Parts
         RFFSHeli_hydraulic_fluid,    *,    0,        -1

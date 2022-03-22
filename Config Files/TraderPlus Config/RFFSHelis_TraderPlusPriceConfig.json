@@ -14,7 +14,9 @@
 				"RFFSHeli_Mi2_Hornet,1,-1,1,1750000,875000,0.5",
 				"RFFSHeli_Apache,1,-1,1,1750000,875000,0.5",
 				"RFFSHeli_Apache_Winter,1,-1,1,1750000,875000,0.5",
-				"RFFSHeli_Apache_Desert,1,-1,1,1750000,875000,0.5"
+				"RFFSHeli_Apache_R22,1,-1,1,1750000,875000,0.5",
+				"RFFSHeli_Apache_R22_Red,1,-1,1,1750000,875000,0.5",
+				"RFFSHeli_Apache_R22_Black,1,-1,1,1750000,875000,0.5"
             ]
         },
         {

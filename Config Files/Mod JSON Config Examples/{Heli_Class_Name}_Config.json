@@ -1,7 +1,8 @@
 {
-    "Heli_ConfigVersion": 2,								** Version of the config scheme -- DO NOT CHANGE --
+    "Heli_ConfigVersion": 4,								** Version of the config scheme -- DO NOT CHANGE --
     "Heli_FuelCapacity": 495.0,								** Fuel Capacity in liters
     "Heli_FuelConsumptionRate": 1.2499799728393555,			** Fuel Consumption Rate in liters per minute
+    "Heli_TrainerMode": 0,									** Limits pitch/roll to 35 deg and fall rate to 8/ms
     "Flight_MaximumAirspeed": 268.5400085449219,			** Maximum Airspeed in KPH
     "Flight_MaximumAltitude": 1250.0,						** Maximum Operating Altitude in Meters
     "Flight_MaximumClimbRate": 720.0,						** Maximum Climb Rate in meters per minute
