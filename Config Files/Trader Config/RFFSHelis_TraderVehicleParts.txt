@@ -6,6 +6,14 @@
         HeadlightH7
         HeadlightH7
 
+<VehicleParts>RFFSHeli_Bo105m_blackcamo
+        RFFSHeli_aviation_battery
+        RFFSHeli_igniter_plug
+        RFFSHeli_hydraulic_hoses
+        RFFSHeli_wiring_harness
+        HeadlightH7
+        HeadlightH7
+
 <VehicleParts>RFFSHeli_LittleBird 
         RFFSHeli_aviation_battery
         RFFSHeli_igniter_plug

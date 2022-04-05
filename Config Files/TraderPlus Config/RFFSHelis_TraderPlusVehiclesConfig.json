@@ -19,6 +19,25 @@
                 "HeadlightH7"
             ]
         },
+		{
+            "VehicleName": "RFFSHeli_Bo105m_blackcamo",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bo105m_DriverDoor_blackcamo",
+                "RFFSHeli_Bo105m_CoDriverDoor_blackcamo",
+                "RFFSHeli_Bo105m_Cargo1_blackcamo",
+                "RFFSHeli_Bo105m_Cargo2_blackcamo",
+                "RFFSHeli_Bo105m_Cargo3_blackcamo",
+                "RFFSHeli_Bo105m_Cargo4_blackcamo",
+                "RFFSHeli_Bo105m_Fuselage_blackcamo",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },		
         {
             "VehicleName": "RFFSHeli_LittleBird",
             "Height": 0,

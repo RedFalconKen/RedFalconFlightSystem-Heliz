@@ -1,6 +1,7 @@
 <Trader> RFFS Helicopters                            
     <Category> Helicopters
         RFFSHeli_Bo105m,            VNK,    0,        -1
+        RFFSHeli_Bo105m_blackcamo,            VNK,    0,        -1
         RFFSHeli_LittleBird,        VNK,    0,        -1
         RFFSHeli_LittleBird_Camo,    VNK,    0,        -1
         RFFSHeli_LittleBird_Desert,    VNK,    0,        -1
