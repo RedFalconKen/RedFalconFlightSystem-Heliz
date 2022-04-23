@@ -9,8 +9,8 @@ class RFFSHeli_Ka26_YourTextureName extends RFFSHeli_Ka26
 	{
 		if (!m_heli_parts_added)
 		{
-			EntityAI entity_Ka26;
-			if ( Class.CastTo(entity_Ka26, this) )
+			EntityAI entity_ka26;
+			if ( Class.CastTo(entity_ka26, this) )
 			{
 				entity_ka26.GetInventory().CreateAttachment( "RFFSHeli_Ka26_DriverDoor_YourTextureName" );
 				entity_ka26.GetInventory().CreateAttachment( "RFFSHeli_Ka26_Codriverdoor_YourTextureName" );
