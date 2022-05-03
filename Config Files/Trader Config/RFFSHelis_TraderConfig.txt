@@ -18,6 +18,8 @@
         RFFSHeli_R22,                VNK,    0,        -1
         RFFSHeli_R22_Red,                VNK,    0,        -1
         RFFSHeli_R22_Black,                VNK,    0,        -1
+        RFFSHeli_Blackhawk,                VNK,    0,        -1
+        RFFSHeli_Blackhawk_Cargo,                VNK,    0,        -1
 
     <Category> Helicopter Parts
         RFFSHeli_hydraulic_fluid,    *,    0,        -1
@@ -33,6 +35,8 @@
 		
 	<Category> Helicopter Gear
 		RFFSHeli_PilotHelmet,		*,		0,			-1
+		RFFSHeli_PilotHelmet_Black,		*,		0,			-1
+		RFFSHeli_PilotHelmet_Desert,		*,		0,			-1
 		RFFSHeli_PilotGloves,		*,		0,			-1
 		RFFSHeli_PilotShirt,		*,		0,			-1
 		RFFSHeli_PilotPants,		*,		0,			-1

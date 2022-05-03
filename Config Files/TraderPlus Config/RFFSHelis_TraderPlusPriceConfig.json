@@ -15,9 +15,11 @@
 				"RFFSHeli_Mi2_Hornet,1,-1,1,1750000,875000,0.5",
 				"RFFSHeli_Apache,1,-1,1,1750000,875000,0.5",
 				"RFFSHeli_Apache_Winter,1,-1,1,1750000,875000,0.5",
-				"RFFSHeli_Apache_R22,1,-1,1,1750000,875000,0.5",
-				"RFFSHeli_Apache_R22_Red,1,-1,1,1750000,875000,0.5",
-				"RFFSHeli_Apache_R22_Black,1,-1,1,1750000,875000,0.5"
+				"RFFSHeli_R22,1,-1,1,1750000,875000,0.5",
+				"RFFSHeli_R22_Red,1,-1,1,1750000,875000,0.5",
+				"RFFSHeli_R22_Black,1,-1,1,1750000,875000,0.5",
+				"RFFSHeli_Blackhawk,1,-1,1,1750000,875000,0.5",
+				"RFFSHeli_Blackhawk_Cargo,1,-1,1,1750000,875000,0.5"
             ]
         },
         {
@@ -39,6 +41,8 @@
             "CategoryName": "Helicopter Gear",
             "Products": [
                 "RFFSHeli_PilotHelmet,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotHelmet_Desert,1,-1,1,1200,600,0.5",
+                "RFFSHeli_PilotHelmet_Black,1,-1,1,1200,600,0.5",
                 "RFFSHeli_PilotGloves,1,-1,1,1200,600,0.5",
                 "RFFSHeli_PilotShirt,1,-1,1,1200,600,0.5",
                 "RFFSHeli_PilotPants,1,-1,1,1200,600,0.5",
