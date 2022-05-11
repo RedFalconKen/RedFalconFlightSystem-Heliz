@@ -1,7 +1,7 @@
 <types>
     <type name="RFFSHeli_Bo105m">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -21,7 +21,7 @@
     </type>
     <type name="RFFSHeli_Bo105m_blackcamo">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -41,7 +41,7 @@
     </type>
     <type name="RFFSHeli_LittleBird">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -51,7 +51,7 @@
     </type>
     <type name="RFFSHeli_LittleBird_Camo">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -61,7 +61,7 @@
     </type>
     <type name="RFFSHeli_LittleBird_Desert">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -81,7 +81,7 @@
     </type>
     <type name="RFFSHeli_Ka26">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -101,7 +101,7 @@
     </type>
     <type name="RFFSHeli_Bell429">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -121,7 +121,7 @@
     </type>	
     <type name="RFFSHeli_Bell429_Police">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -141,7 +141,7 @@
     </type>	
     <type name="RFFSHeli_Bell429_Medic">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -182,7 +182,7 @@
 
     <type name="RFFSHeli_Mi2">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -203,7 +203,7 @@
 
     <type name="RFFSHeli_Mi2_Military">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -224,7 +224,7 @@
 
     <type name="RFFSHeli_Mi2_Hornet">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -245,7 +245,7 @@
 
     <type name="RFFSHeli_Apache">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -265,7 +265,7 @@
     </type>	
     <type name="RFFSHeli_Apache_Winter">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -285,7 +285,7 @@
     </type>
     <type name="RFFSHeli_Apache_Desert">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -305,7 +305,7 @@
     </type>
     <type name="RFFSHeli_R22">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -325,7 +325,7 @@
     </type>
     <type name="RFFSHeli_R22_Black">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -345,7 +345,7 @@
     </type>
     <type name="RFFSHeli_R22_Red">
         <nominal>0</nominal>
-        <lifetime>1296000</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -365,7 +365,7 @@
     </type>
     <type name="RFFSHeli_Blackhawk">
         <nominal>0</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -375,7 +375,7 @@
     </type>
     <type name="RFFSHeli_Blackhawk_Cargo">
         <nominal>0</nominal>
-        <lifetime>3600</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
