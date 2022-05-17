@@ -6,46 +6,6 @@
     "InitStockPercent": 75.0,
     "Items": [
         
-        {
-            "ClassName": "RFFSHeli_Blackhawk_Cargo",
-            "MaxPriceThreshold": 4000000,
-            "MinPriceThreshold": 1200000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"RFFSHeli_hydraulic_hoses",
-                "RFFSHeli_wiring_harness",
-                "RFFSHeli_igniter_plug",
-                "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor_Black",
-                "RFFSHeli_R22_CoDriverDoor_Black",
-                "HeadlightH7",
-                "HeadlightH7"
-            ],
-            "Variants": []
-        },    
-		{
-            "ClassName": "RFFSHeli_Blackhawk",
-            "MaxPriceThreshold": 4000000,
-            "MinPriceThreshold": 1200000,
-            "SellPricePercent": -1,
-            "MaxStockThreshold": 1,
-            "MinStockThreshold": 1,
-            "QuantityPercent": -1,
-            "SpawnAttachments": [
-				"RFFSHeli_hydraulic_hoses",
-                "RFFSHeli_wiring_harness",
-                "RFFSHeli_igniter_plug",
-                "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor_Black",
-                "RFFSHeli_R22_CoDriverDoor_Black",
-                "HeadlightH7",
-                "HeadlightH7"
-            ],
-            "Variants": []
-        },
 		{
             "ClassName": "RFFSHeli_Apache",
             "MaxPriceThreshold": 4000000,
@@ -59,8 +19,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Apache_DriverDoor",
-                "RFFSHeli_Apache_CoDriverDoor",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -78,8 +36,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Apache_DriverDoor_Desert",
-                "RFFSHeli_Apache_CoDriverDoor_Desert",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -97,8 +53,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Apache_DriverDoor_Winter",
-                "RFFSHeli_Apache_CoDriverDoor_Winter",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -116,9 +70,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Mi2_DriverDoor_Hornet",
-                "RFFSHeli_Mi2_CoDriverDoor_Hornet",
-                "RFFSHeli_Mi2_Cargo1_Hornet",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -136,9 +87,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Mi2_DriverDoor",
-                "RFFSHeli_Mi2_CoDriverDoor",
-                "RFFSHeli_Mi2_Cargo1",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -156,9 +104,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Mi2_DriverDoor_Military",
-                "RFFSHeli_Mi2_CoDriverDoor_Military",
-                "RFFSHeli_Mi2_Cargo1_Military",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -176,15 +121,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Bell429_DriverDoor_Police",
-                "RFFSHeli_Bell429_CoDriverDoor_Police",
-                "RFFSHeli_Bell429_Cargo1_Police",
-                "RFFSHeli_Bell429_Cargo2_Police",
-                "RFFSHeli_Bell429_Cargo3_Police",
-                "RFFSHeli_Bell429_Cargo4_Police",
-				"RFFSHeli_Bell429_interior_Police",
-				"RFFSHeli_Bell429_skids_Police",
-				"RFFSHeli_Bell429_rearseats_Police",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -202,15 +138,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Bell429_DriverDoor_Medic",
-                "RFFSHeli_Bell429_CoDriverDoor_Medic",
-                "RFFSHeli_Bell429_Cargo1_Medic",
-                "RFFSHeli_Bell429_Cargo2_Medic",
-                "RFFSHeli_Bell429_Cargo3_Medic",
-                "RFFSHeli_Bell429_Cargo4_Medic",
-				"RFFSHeli_Bell429_interior_Medic",
-				"RFFSHeli_Bell429_skids_Medic",
-				"RFFSHeli_Bell429_rearseats_Medic",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -228,10 +155,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_KA26_DriverDoor",
-                "RFFSHeli_KA26_CoDriverDoor",
-                "RFFSHeli_KA26_Cargo1",
-                "RFFSHeli_KA26_Cargo2",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -300,13 +223,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Bo105m_DriverDoor_blackcamo",
-                "RFFSHeli_Bo105m_CoDriverDoor_blackcamo",
-                "RFFSHeli_Bo105m_Cargo1_blackcamo",
-                "RFFSHeli_Bo105m_Cargo2_blackcamo",
-                "RFFSHeli_Bo105m_Cargo3_blackcamo",
-                "RFFSHeli_Bo105m_Cargo4_blackcamo",
-                "RFFSHeli_Bo105m_Fuselage_blackcamo",
                 "HeadlightH7",
                 "HeadlightH7"
             ],
@@ -325,13 +241,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_Bo105m_DriverDoor",
-                "RFFSHeli_Bo105m_CoDriverDoor",
-                "RFFSHeli_Bo105m_Cargo1",
-                "RFFSHeli_Bo105m_Cargo2",
-                "RFFSHeli_Bo105m_Cargo3",
-                "RFFSHeli_Bo105m_Cargo4",
-                "RFFSHeli_Bo105m_Fuselage",
                 "HeadlightH7",
                 "HeadlightH7"
             ],
@@ -350,8 +259,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor",
-                "RFFSHeli_R22_CoDriverDoor",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -369,8 +276,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor_Red",
-                "RFFSHeli_R22_CoDriverDoor_Red",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -388,8 +293,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor_Black",
-                "RFFSHeli_R22_CoDriverDoor_Black",
                 "HeadlightH7"
             ],
             "Variants": []
@@ -407,8 +310,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor_Black",
-                "RFFSHeli_R22_CoDriverDoor_Black",
                 "HeadlightH7",
                 "HeadlightH7"
             ],
@@ -427,8 +328,6 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor_Black",
-                "RFFSHeli_R22_CoDriverDoor_Black",
                 "HeadlightH7",
                 "HeadlightH7"
             ],
