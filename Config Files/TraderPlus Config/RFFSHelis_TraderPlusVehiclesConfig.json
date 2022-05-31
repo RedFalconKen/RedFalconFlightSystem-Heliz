@@ -274,8 +274,14 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor_Black",
-                "RFFSHeli_R22_CoDriverDoor_Black",
+                "RFFSHeli_Blackhawk_DriverDoor",
+                "RFFSHeli_Blackhawk_CoDriverDoor",
+                "RFFSHeli_Blackhawk_Cargo1",
+                "RFFSHeli_Blackhawk_Cargo1a",
+                "RFFSHeli_Blackhawk_Cargo2",
+                "RFFSHeli_Blackhawk_Cargo2a",
+                "RFFSHeli_Blackhawk_Cargo3",
+                "RFFSHeli_Blackhawk_Cargo4",
                 "HeadlightH7",
                 "HeadlightH7"
             ]
@@ -288,8 +294,48 @@
                 "RFFSHeli_wiring_harness",
                 "RFFSHeli_igniter_plug",
                 "RFFSHeli_aviation_battery",
-                "RFFSHeli_R22_DriverDoor_Black",
-                "RFFSHeli_R22_CoDriverDoor_Black",
+                "RFFSHeli_Blackhawk_DriverDoor",
+                "RFFSHeli_Blackhawk_CoDriverDoor",
+                "RFFSHeli_Blackhawk_Cargo1",
+                "RFFSHeli_Blackhawk_Cargo1a",
+                "RFFSHeli_Blackhawk_Cargo2",
+                "RFFSHeli_Blackhawk_Cargo2a",
+                "RFFSHeli_Blackhawk_Cargo3",
+                "RFFSHeli_Blackhawk_Cargo4",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Blackhawk_Woodland",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Blackhawk_DriverDoor_Woodland",
+                "RFFSHeli_Blackhawk_CoDriverDoor_Woodland",
+                "RFFSHeli_Blackhawk_Cargo1_Woodland",
+                "RFFSHeli_Blackhawk_Cargo1a_Woodland",
+                "RFFSHeli_Blackhawk_Cargo2_Woodland",
+                "RFFSHeli_Blackhawk_Cargo2a_Woodland",
+                "RFFSHeli_Blackhawk_Cargo3_Woodland",
+                "RFFSHeli_Blackhawk_Cargo4_Woodland",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_CH53e",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_CH53e_Cargo1",
+                "RFFSHeli_CH53e_Cargo2",
                 "HeadlightH7",
                 "HeadlightH7"
             ]

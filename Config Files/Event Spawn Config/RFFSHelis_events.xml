@@ -29,6 +29,10 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Winter"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Apache_Desert"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk_Cargo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk_Woodland"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_CH53e"/>
         </children>
     </event>
 </events>

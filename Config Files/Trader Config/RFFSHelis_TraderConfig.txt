@@ -20,6 +20,8 @@
         RFFSHeli_R22_Black,                VNK,    0,        -1
         RFFSHeli_Blackhawk,                VNK,    0,        -1
         RFFSHeli_Blackhawk_Cargo,                VNK,    0,        -1
+        RFFSHeli_Blackhawk_Woodland,                VNK,    0,        -1
+        RFFSHeli_CH53e,                VNK,    0,        -1
 
     <Category> Helicopter Parts
         RFFSHeli_hydraulic_fluid,    *,    0,        -1
