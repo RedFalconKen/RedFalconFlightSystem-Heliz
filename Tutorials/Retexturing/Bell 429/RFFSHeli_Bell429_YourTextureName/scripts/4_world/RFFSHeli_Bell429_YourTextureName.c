@@ -28,7 +28,7 @@ class RFFSHeli_Bell429_YourTextureName extends RFFSHeli_Bell429
 	}
 }
 
-class RFFSHeli_Bell429_YourTextureName_wreck extends RFFSHeli_Bell429_wreck {}
+class RFFSHeli_Bell429_YourTextureName_Wreck extends RFFSHeli_Bell429_Wreck {}
 
 
 
