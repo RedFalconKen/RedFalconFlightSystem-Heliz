@@ -327,6 +327,46 @@
             ]
         },
         {
+            "VehicleName": "RFFSHeli_Blackhawk_blackblackhawk",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Blackhawk_DriverDoor_blackblackhawk",
+                "RFFSHeli_Blackhawk_CoDriverDoor_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo1_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo1a_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo2_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo2a_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo3_blackblackhawk",
+                "RFFSHeli_Blackhawk_Cargo4_blackblackhawk",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_Blackhawk_Budhawk",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Blackhawk_DriverDoor_Budhawk",
+                "RFFSHeli_Blackhawk_CoDriverDoor_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo1_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo1a_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo2_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo2a_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo3_Budhawk",
+                "RFFSHeli_Blackhawk_Cargo4_Budhawk",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
             "VehicleName": "RFFSHeli_CH53e",
             "Height": 0,
             "VehicleParts": [
