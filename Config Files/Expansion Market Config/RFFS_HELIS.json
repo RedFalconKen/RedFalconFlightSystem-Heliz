@@ -404,6 +404,24 @@
                 "HeadlightH7"
             ],
             "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_CH47",
+            "MaxPriceThreshold": 4000000,
+            "MinPriceThreshold": 2000000,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [
+				"RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "HeadlightH7",
+                "HeadlightH7"
+            ],
+            "Variants": []
         }
 	
 	

@@ -33,6 +33,7 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk_Cargo"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Blackhawk_Woodland"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_CH53e"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_CH47"/>
         </children>
     </event>
 </events>

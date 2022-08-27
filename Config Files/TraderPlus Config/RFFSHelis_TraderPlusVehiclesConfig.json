@@ -379,6 +379,20 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ]
+        },
+        {
+            "VehicleName": "RFFSHeli_CH47",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_CH47_Cargo1",
+                "RFFSHeli_CH47_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
         }
     ]
 }
