@@ -25,6 +25,8 @@
 		RFFSHeli_Blackhawk_Budhawk,				VNK,	0,		-1
         RFFSHeli_CH53e,                VNK,    0,        -1
         RFFSHeli_CH47,                VNK,    0,        -1
+        RFFSHeli_EC135,                VNK,    0,        -1
+        RFFSHeli_EC135_BlackCamo,                VNK,    0,        -1
 
     <Category> Helicopter Parts
         RFFSHeli_hydraulic_fluid,    *,    0,        -1

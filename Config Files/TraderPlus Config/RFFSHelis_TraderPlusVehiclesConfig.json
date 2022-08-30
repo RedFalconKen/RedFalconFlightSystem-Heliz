@@ -393,6 +393,42 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ]
+        },
+        {
+            "VehicleName": "RFFSHeli_EC135",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_EC135_DriverDoor",
+                "RFFSHeli_EC135_CoDriverDoor",
+                "RFFSHeli_EC135_Cargo1",
+                "RFFSHeli_EC135_Cargo2",
+                "RFFSHeli_EC135_Cargo3",
+                "RFFSHeli_EC135_Cargo4",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+        {
+            "VehicleName": "RFFSHeli_EC135",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_EC135_DriverDoor_BlackCamo",
+                "RFFSHeli_EC135_CoDriverDoor_BlackCamo",
+                "RFFSHeli_EC135_Cargo1_BlackCamo",
+                "RFFSHeli_EC135_Cargo2_BlackCamo",
+                "RFFSHeli_EC135_Cargo3_BlackCamo",
+                "RFFSHeli_EC135_Cargo4_BlackCamo",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
         }
     ]
 }
