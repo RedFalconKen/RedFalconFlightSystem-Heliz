@@ -73,7 +73,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_CH47_YourTextureName\data\body_YourTextureName_ca.paa"
+			"RFFSHeli_CH47_YourTextureName\data\body_yourtexturename_ca.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
