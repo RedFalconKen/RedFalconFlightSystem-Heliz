@@ -1,3 +1,4 @@
 Copy the RFFSHeli_R22_YourTextureName mod template folder, modify all references to YourTextureName is the name of you texture (file names and in the files themselves) and replace the texture files in the /data folder with yours. Pack, test, and publish.
 
 The PSD Template is provided via GDrive (due to size) with a link provided.
+https://drive.google.com/file/d/1Ps5PdbkDQSqKxh7gUk80lsbBHoFFEuuM/view?usp=sharing
