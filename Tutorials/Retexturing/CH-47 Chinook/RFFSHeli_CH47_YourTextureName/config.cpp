@@ -63,6 +63,8 @@ class CfgMods
 class CfgVehicles
 {
 	class RFFSHeli_CH47;
+	class RFFSHeli_CH47_Cargo1;
+	class RFFSHeli_CH47_Cargo2;		
 	class RFFSHeli_CH47_YourTextureName: RFFSHeli_CH47
 	{
 		scope=2;
@@ -80,4 +82,53 @@ class CfgVehicles
 			"RFFSHeli_CH47\data\body.rvmat"
 		};
 	};
+
+	class RFFSHeli_CH47_Cargo1_YourTextureName: RFFSHeli_CH47_Cargo1
+	{
+		hiddenSelections[]=
+		{
+			"camo1"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"RFFSHeli_CH47_YourTextureName\data\body_yourtexturename_ca.paa"
+		};
+		hiddenSelectionsMaterials[]=
+		{
+			"RFFSHeli_CH47\data\body.rvmat"
+		};
+	};
+	class RFFSHeli_CH47_Cargo2_YourTextureName: RFFSHeli_CH47_Cargo2
+	{
+		hiddenSelections[]=
+		{
+			"camo1"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"RFFSHeli_CH47_YourTextureName\data\body_yourtexturename_ca.paa"
+		};
+		hiddenSelectionsMaterials[]=
+		{
+			"RFFSHeli_CH47\data\body.rvmat"
+		};
+	};
+
+	class RFFSHeli_CH47_Wreck;
+	class RFFSHeli_CH47_YourTextureName_Wreck: RFFSHeli_CH47_Wreck
+	{
+		hiddenSelections[]=
+		{
+			"camo1"
+		};
+		hiddenSelectionsTextures[]=
+		{
+			"RFFSHeli_CH47_YourTextureName\data\body_yourtexturename_ca.paa"
+		};
+		hiddenSelectionsMaterials[]=
+		{
+			"RFFSHeli_CH47\data\body.rvmat"
+		};
+	};
+	
 };
