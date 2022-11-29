@@ -23,6 +23,7 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Police"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_Medic"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Bell429_ZS"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Military"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_Mi2_Hornet"/>
