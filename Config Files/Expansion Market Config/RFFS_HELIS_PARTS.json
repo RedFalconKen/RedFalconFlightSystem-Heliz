@@ -1403,7 +1403,7 @@
             "Variants": []
         },
 		{
-            "ClassName": "RFFSHeli_Bo105m_Cargo2_BlackCamo",
+            "ClassName": "RFFSHeli_EC135_Cargo2_BlackCamo",
             "MaxPriceThreshold": 120,
             "MinPriceThreshold": 60,
             "SellPricePercent": -1,
