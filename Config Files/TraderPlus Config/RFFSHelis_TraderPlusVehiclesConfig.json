@@ -167,6 +167,26 @@
             ]
         },
         {
+            "VehicleName": "RFFSHeli_Bell429_Uganda",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_Bell429_DriverDoor_Uganda",
+                "RFFSHeli_Bell429_CoDriverDoor_Uganda",
+                "RFFSHeli_Bell429_Cargo1_Uganda",
+                "RFFSHeli_Bell429_Cargo2_Uganda",
+                "RFFSHeli_Bell429_Cargo3_Uganda",
+                "RFFSHeli_Bell429_Cargo4_Uganda",
+				"RFFSHeli_Bell429_interior_Uganda",
+				"RFFSHeli_Bell429_skids_Uganda",
+				"RFFSHeli_Bell429_rearseats_Uganda",
+                "HeadlightH7"
+            ]
+        },
+        {
             "VehicleName": "RFFSHeli_Mi2",
             "Height": 0,
             "VehicleParts": [
