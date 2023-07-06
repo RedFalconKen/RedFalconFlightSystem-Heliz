@@ -1,0 +1,4 @@
+Copy the RFFSHeli_S76_YourTextureName mod template folder, modify all references to YourTextureName is the name of you texture (file names and in the files themselves) and replace the texture files in the /data folder with yours. Pack, test, and publish.
+
+The PSD Templates for the Exterior are provided. Copy your texture to the 'Texture' layer.
+
