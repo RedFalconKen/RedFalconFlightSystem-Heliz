@@ -487,6 +487,70 @@
                 "HeadlightH7",
                 "HeadlightH7"
             ]
-        }		
+        },
+       {
+            "VehicleName": "RFFSHeli_UH1H_Combat",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_UH1H_Combat_DriverDoor",
+                "RFFSHeli_UH1H_Combat_CoDriverDoor",
+                "RFFSHeli_UH1H_Combat_Cargo1",
+                "RFFSHeli_UH1H_Combat_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        }	,
+       {
+            "VehicleName": "RFFSHeli_AS350_Combat",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_AS350_DriverDoor",
+                "RFFSHeli_AS350_CoDriverDoor",
+                "RFFSHeli_AS350_Cargo1",
+                "RFFSHeli_AS350_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+       {
+            "VehicleName": "RFFSHeli_S76_Combat",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_S76_DriverDoor",
+                "RFFSHeli_S76_CoDriverDoor",
+                "RFFSHeli_S76_Cargo1",
+                "RFFSHeli_S76_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        },
+       {
+            "VehicleName": "RFFSHeli_S76_WoodlandCamo_Combat",
+            "Height": 0,
+            "VehicleParts": [
+                "RFFSHeli_hydraulic_hoses",
+                "RFFSHeli_wiring_harness",
+                "RFFSHeli_igniter_plug",
+                "RFFSHeli_aviation_battery",
+                "RFFSHeli_S76_WoodlandCamo_DriverDoor",
+                "RFFSHeli_S76_WoodlandCamo_CoDriverDoor",
+                "RFFSHeli_S76_WoodlandCamo_Cargo1",
+                "RFFSHeli_S76_WoodlandCamo_Cargo2",
+                "HeadlightH7",
+                "HeadlightH7"
+            ]
+        }
     ]
 }

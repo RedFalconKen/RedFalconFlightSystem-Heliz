@@ -30,6 +30,10 @@
         RFFSHeli_EC135,                VNK,    0,        -1
         RFFSHeli_EC135_BlackCamo,                VNK,    0,        -1
         RFFSHeli_UH1H,                VNK,    0,        -1
+        RFFSHeli_UH1H_Combat,                VNK,    0,        -1
+        RFFSHeli_S76,                VNK,    0,        -1
+        RFFSHeli_S76_WoodlandCamo,                VNK,    0,        -1
+        RFFSHeli_AS350,                VNK,    0,        -1
 
     <Category> Helicopter Parts
         RFFSHeli_hydraulic_fluid,    *,    0,        -1

@@ -38,6 +38,11 @@
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_CH47"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_EC135"/>
             <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_EC135_BlackCamo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_UH1H_Combat"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_S76"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_S76_WoodlandCamo"/>
+            <child lootmax="0" lootmin="0" max="5" min="3" type="RFFSHeli_AS350"/>
         </children>
     </event>
 </events>

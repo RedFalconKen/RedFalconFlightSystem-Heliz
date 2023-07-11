@@ -1588,6 +1588,182 @@
             "QuantityPercent": -1,
             "SpawnAttachments": [],
             "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_UH1H_Combat_DriverDoor",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_UH1H_Combat_CoDriverDoor",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_UH1H_Combat_Cargo1",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_UH1H_Combat_Cargo2",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_AS350_DriverDoor",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_AS350_CoDriverDoor",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_AS350_Cargo1",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_AS350_Cargo2",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_S76_DriverDoor",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_S76_CoDriverDoor",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_S76_Cargo1",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_S76_Cargo2",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_S76_WoodlandCamo_DriverDoor",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_S76_WoodlandCamo_CoDriverDoor",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_S76_WoodlandCamo_Cargo1",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
+        },
+		{
+            "ClassName": "RFFSHeli_S76_WoodlandCamo_Cargo2",
+            "MaxPriceThreshold": 120,
+            "MinPriceThreshold": 60,
+            "SellPricePercent": -1,
+            "MaxStockThreshold": 1,
+            "MinStockThreshold": 1,
+            "QuantityPercent": -1,
+            "SpawnAttachments": [],
+            "Variants": []
         }
 
 
