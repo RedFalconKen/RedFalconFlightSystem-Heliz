@@ -1,0 +1,5 @@
+Copy the RFFSHeli_UH1H_YourTextureName mod template folder, modify all references to YourTextureName is the name of you texture (file names and in the files themselves) and replace the texture files in the /data folder with yours. Pack, test, and publish.
+
+The PSD Templates for the Exterior are provided. Copy your texture to the 'Texture' layer.
+PSD templates for the interior textures are provided as well and can be used by adding the appropriate HiddenSelections in the config.cpp. The selection names follow the same pattern as the exterior texture (UH1H_int01 for example).
+
