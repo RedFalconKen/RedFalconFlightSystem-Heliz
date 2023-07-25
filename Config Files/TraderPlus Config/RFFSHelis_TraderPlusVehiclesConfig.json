@@ -503,7 +503,7 @@
             ]
         }	,
        {
-            "VehicleName": "RFFSHeli_AS350_Combat",
+            "VehicleName": "RFFSHeli_AS350",
             "Height": 0,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
@@ -519,7 +519,7 @@
             ]
         },
        {
-            "VehicleName": "RFFSHeli_S76_Combat",
+            "VehicleName": "RFFSHeli_S76",
             "Height": 0,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
@@ -535,7 +535,7 @@
             ]
         },
        {
-            "VehicleName": "RFFSHeli_S76_WoodlandCamo_Combat",
+            "VehicleName": "RFFSHeli_S76_WoodlandCamo",
             "Height": 0,
             "VehicleParts": [
                 "RFFSHeli_hydraulic_hoses",
