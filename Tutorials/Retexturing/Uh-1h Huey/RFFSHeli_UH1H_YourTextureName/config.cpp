@@ -93,6 +93,7 @@ class CfgVehicles
 		{
 			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
 		};
+	};
 	class RFFSHeli_UH1H_Cargo1_YourTextureName: RFFSHeli_UH1H_Cargo1
 	{
 		hiddenSelections[]=
