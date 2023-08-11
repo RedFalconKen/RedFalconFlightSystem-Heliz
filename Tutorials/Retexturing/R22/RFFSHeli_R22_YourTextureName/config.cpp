@@ -4,15 +4,10 @@ class CfgPatches
 	{
 		units[]={};
 		weapons[]={};
-		requiyourtexturenameVersion=0.1;
-		requiyourtexturenameAddons[]=
+		requiredVersion=0.1;
+		requiredAddons[]=
 		{
-			"DZ_Vehicles_Parts",
-			"DZ_Vehicles_Wheeled",
-			"DZ_Scripts",
-			"DZ_Data",
-			"RFFSHeli_R22_Heli",
-			"RFFSHeli_Core"
+			"RFFSHeli_R22_Heli"
 		};
 	};
 };
