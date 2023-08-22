@@ -25,7 +25,7 @@ class RFFSHeli_UH1H_YourTextureName extends RFFSHeli_UH1H
 	}
 }
 
-class RFFSHeli_UH1H_YourTextureName_Wreck extends RFFSHeli_UH1H_Wreck {}
+class RFFSHeli_UH1H_YourTextureName_Wreck extends RFFSHeli_UH1H_wreck {}
 
 
 
