@@ -61,8 +61,8 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_body_YourTextureName.paa",
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_body_YourTextureName.paa",
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_door_int_YourTextureName.paa"
 		};
 	};
 	class RFFSHeli_UH1H_DriverDoor;
@@ -80,7 +80,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_door_int_YourTextureName.paa"
 		};
 	};
 	class RFFSHeli_UH1H_CodriverDoor_YourTextureName: RFFSHeli_UH1H_CodriverDoor
@@ -91,7 +91,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_door_int_YourTextureName.paa"
 		};
 	};
 	class RFFSHeli_UH1H_Cargo1_YourTextureName: RFFSHeli_UH1H_Cargo1
@@ -102,7 +102,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_door_int_YourTextureName.paa"
 		};
 	};
 	class RFFSHeli_UH1H_Cargo2_YourTextureName: RFFSHeli_UH1H_Cargo2
@@ -113,7 +113,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_door_int_YourTextureName.paa"
 		};
 	};
 	class RFFSHeli_UH1H_Cargo1a_YourTextureName: RFFSHeli_UH1H_Cargo1a
@@ -124,7 +124,7 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_door_int_YourTextureName.paa"
 		};
 	};
 	class RFFSHeli_UH1H_Cargo2a_YourTextureName: RFFSHeli_UH1H_Cargo2a
@@ -135,21 +135,22 @@ class CfgVehicles
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_door_int_YourTextureName.paa"
 		};
 	};
 
 	class RFFSHeli_UH1H_Wreck;
 	class RFFSHeli_UH1H_YourTextureName_Wreck: RFFSHeli_UH1H_Wreck
 	{
+		hiddenSelections[]=
 		{
 			"camo_body",
 			"camo_door_int"
 		};
 		hiddenSelectionsTextures[]=
 		{
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_body_YourTextureName.paa",
-			"RFFSHeli_UH1H_YourTextureName\data\UH1H_door_int_YourTextureName.paa"
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_body_YourTextureName.paa",
+			"RFFSHeli_UH1H_YourTextureName\data\Uh-1h_door_int_YourTextureName.paa"
 		};
 		hiddenSelectionsMaterials[]=
 		{
