@@ -38,7 +38,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"RFFSHeli_CH47_YourTextureName/4_World"
+					"RFFSHeli_CH47_YourTextureName/scripts/4_World"
 				};
 			};
 			class gameScriptModule
@@ -46,7 +46,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"RFFSHeli_CH47_YourTextureName/3_Game"
+					"RFFSHeli_CH47_YourTextureName/scripts/3_Game"
 				};
 			};
 			class missionScriptModule
@@ -54,7 +54,7 @@ class CfgMods
 				value="";
 				files[]=
 				{
-					"RFFSHeli_CH47_YourTextureName/5_Mission"
+					"RFFSHeli_CH47_YourTextureName/scripts/5_Mission"
 				};
 			};
 		};
