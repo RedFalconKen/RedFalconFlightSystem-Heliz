@@ -72,7 +72,7 @@ class CfgVehicles
 		{
 			"RFFSHeli_Bo105m\data\bo105m_e01_YourTextureName.rvmat",
 			"RFFSHeli_Bo105m\data\bo105m_e02_YourTextureName.rvmat",
-			"RFFSHeli_Bo105m\data\bo105m_e03_YourTextureNamervmat",
+			"RFFSHeli_Bo105m\data\bo105m_e03_YourTextureName.rvmat",
 			"RFFSHeli_Bo105m\data\bo105m.rvmat"
 		};
 		class Cargo
@@ -108,7 +108,7 @@ class CfgVehicles
 		{
 			"RFFSHeli_Bo105m\data\bo105m_e01_YourTextureName.rvmat",
 			"RFFSHeli_Bo105m\data\bo105m_e02_YourTextureName.rvmat",
-			"RFFSHeli_Bo105m\data\bo105m_e03_YourTextureNamervmat",
+			"RFFSHeli_Bo105m\data\bo105m_e03_YourTextureName.rvmat",
 			"RFFSHeli_Bo105m\data\bo105m.rvmat"
 		};
 	};		
@@ -252,7 +252,7 @@ class CfgVehicles
 		{
 			"RFFSHeli_Bo105m\data\bo105m_e01_YourTextureName.rvmat",
 			"RFFSHeli_Bo105m\data\bo105m_e02_YourTextureName.rvmat",
-			"RFFSHeli_Bo105m\data\bo105m_e03_YourTextureNamervmat"
+			"RFFSHeli_Bo105m\data\bo105m_e03_YourTextureName.rvmat"
 		};
 	};
 };
